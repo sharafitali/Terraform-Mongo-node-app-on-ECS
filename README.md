@@ -1,0 +1,1 @@
+Terraform code for deploy blogyfy app that use node and mongo db  on ecs by using the modular approach that use the VPC, Security group, Autoscalling group ,ALB , ECS cluster etc modules for deployment
